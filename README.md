@@ -4,7 +4,7 @@ A premium dark-themed course management application built with React, featuring 
 
 ## Live Demo
 
-**[View Live App →](https://fullstack-intro-course.netlify.app)**
+**[View Live App →](https://dev-zone-a1b2.netlify.app)**
 
 ## Screenshots
 
@@ -17,7 +17,7 @@ A premium dark-themed course management application built with React, featuring 
 > ```
 
 **To capture screenshots:**
-1. Open the [live demo](https://fullstack-intro-course.netlify.app)
+1. Open the [live demo](https://dev-zone-a1b2.netlify.app)
 2. Take screenshots of:
    - Main page with progress bar
    - Expanded lesson categories
@@ -123,7 +123,7 @@ This app is deployed on Netlify with continuous deployment from the main branch.
 npx netlify-cli deploy --prod
 ```
 
-**Live URL**: https://fullstack-intro-course.netlify.app
+**Live URL**: https://dev-zone-a1b2.netlify.app
 
 ## Customization
 
